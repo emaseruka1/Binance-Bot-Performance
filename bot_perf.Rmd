@@ -24,9 +24,9 @@ library(ggplot2)
 
 today<-Sys.Date()
 
-key = '87LuGjBLzYmCatq5Z6f94THMjAvK9XBrDGKFQTHVczG5uk58m9XiSCl3LEfV1DiC'
+key = '####'
 
-secret = '1vUHCRc1tW0f4amCNXiCK12iHNJdbKIHgqKb2d5ZLWXEJi82hLBSQeGJYxPJ9EXk'
+secret = '####'
 
 #Calling API
 
